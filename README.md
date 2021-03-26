@@ -11,7 +11,7 @@ Go Learn with the Real World
   
   **Arkademi.apk** - This contains the entire app minus the AR lessons. Can run on any device running Android 7.0 or later.
   
-  **AR_kademi.apk** - This contains the sample AR lessons we've created for this prototype. Needs and ARCore supported device.
+  **AR_kademi.apk** - This contains the sample AR lessons we've created for this prototype. An ARCore supported device is required.
   
 
 ## Known Issues
