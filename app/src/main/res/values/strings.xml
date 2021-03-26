@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Arkademi</string>
+    <string name="title">arkademi</string>
+    <string name="subtitle_1">Go learn with the real world</string>
+    <string name="subtitle_2">Arkademi uses augmented reality (AR) to show lessons in the real world, which you can view using your phone screen</string>
+    <string name="subtitle_3">Start browsing any topics you like so you can experience first hand the new way of learning using AR</string>
+    <string name="next_button" />
+    <string name="settings">Settings</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+    <string name="info_title">Want to be a Creator?</string>
+    <string name="info_content">
+        \t"Creating lessons in Augmented Reality (AR) is a long process and the development"
+        "of new knowledge is getting faster than ever. With that, we would like to work with you. Yes, You!"\n\n
+        \t"Whether you are an educator, an artist, or even a high school student, we believe that you have what it takes to share your wisdom in"
+        "the new and exciting platform of AR. Whether you want to share your insights about the greatest mysteries in History, or"
+        "teach how to cook a new culinary recipe that you've created, then you can do that in Arkademi." \n\n
+        \t"Every time you download an AR lesson, a pop-up ad opens. Arkademi employs a 80/20 split where-in 80% of the total"
+        "ad revenue goes to the creator of the AR lesson. This is our way acknowledge every creator"
+        "that took their time to impart their knowledge using the new realm of AR."
+
+        </string>
+    <string name="title_activity_learn_creator">ScrollingActivity</string>
+    <string name="action_settings">Settings</string>
+</resources>
