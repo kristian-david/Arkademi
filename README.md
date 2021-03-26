@@ -6,14 +6,11 @@ Go Learn with the Real World
   
   For Google ARCore to play, you will need an ARCore supported device which we will link below. There are some articles on how to use ARCore apps on a non-supported device but we still haven't tried that so we don't recommend you to try it.
   
-  **ARCore Supported Devices:**
-  https://developers.google.com/ar/discover/supported-devices
-  
   **Arkademi.apk** - This contains the entire app minus the AR lessons. Can run on any device running Android 7.0 or later.
   
   **AR_kademi.apk** - This contains the sample AR lessons we've created for this prototype. An ARCore supported device is required.
   
-  ### Interactables
+  ## Interactables
    **Discover Section** - You can tap the images and a ripple effect will show. It won't open any AR lessons because it is in the separate apk file.
    **Browse Section** - This section is hardcoded. You can only view what this section could look like in the final version.
    **Profile Section** - The bottom part is also hardcoded. But in the middle, the toggle switch is interactable. You can also press the learn more button that will take you to another activity.
@@ -30,3 +27,6 @@ Go Learn with the Real World
   **Arkademi.apk** - To access our android studio project for this, go to the master branch and you will see the project there.
   
   **AR_kademi.apk** - Since Android Studio is taking a long time processing 3D models for adding to GitHub. We've decided to get the root folder containing all the Codes and UI elements. You can see it above named as **AR Kademi(AR Project).zip** Download it and unzip to access our project.
+  
+   ## ARCore Supported Devices:
+  https://developers.google.com/ar/discover/supported-devices
