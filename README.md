@@ -17,4 +17,5 @@ Go Learn with the Real World
 ## Known Issues
 1. When the menu button is opened and then closed. The fragment are unclickable. You can't scroll or tap the buttons. However you can still click the buttons above to change fragments.
 2. In the navigation drawer menu, once you've clicked the Data Saver button. It would stay checked forever.
-3. When tried in an Android Device with an API level of 22 (Lollipop 5.1). The intro video wouldn't load, some images are stretched, and eventually the app crashes. Because of this we set the minimum API level to 24(Nougat 7.0).
+3. **This app was only tested on a device with 16:9 aspect ratio. There might be some UI design flaws when a phone with a tall aspect ratio is used.**
+4. When tried in an Android Device with an API level of 22 (Lollipop 5.1). The intro video wouldn't load, some images are stretched, and eventually the app crashes. Because of this we set the minimum API level to 24(Nougat 7.0).
