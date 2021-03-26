@@ -7,7 +7,6 @@ Go Learn with the Real World
   For Google ARCore to play, you will need an ARCore supported device which we will link below. There are some articles on how to use ARCore apps on a non-supported device but we still haven't tried that so we don't recommend you to try it.
   
   **ARCore Supported Devices:**
-  
   https://developers.google.com/ar/discover/supported-devices
   
   **Arkademi.apk** - This contains the entire app minus the AR lessons. Can run on any device running Android 7.0 or later.
