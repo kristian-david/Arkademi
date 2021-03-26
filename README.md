@@ -4,7 +4,7 @@ Go Learn with the Real World
 ## Instructions
   With this application being our very first experience in using both Android Studio and Kotlin, we decided to create two separate projects. One for testing ARCore, and one for creating the frame and layout of Arkademi. We decided to later merge this project but we had lots of major problems regarding that. That's why we have 2 applications for you to test.
   
-  For Google ARCore to play, you will need an ARCore supported device which we will link below. There are some articles on how to use ARCore apps on a non-supported device but we still haven't tried that so we don't recommend you to try it.
+  For Google ARCore to play, you will need an ARCore supported device which we will link below. There are some articles on how to use ARCore apps on a non-supported device but we still haven't tried any of it so we don't recommend you to try it.
   
   **ARCore Supported Devices:**
   https://developers.google.com/ar/discover/supported-devices
