@@ -2,7 +2,7 @@
 Go Learn with the Real World
 
 ## Instructions
-  With this application being our very first experience in using both Android Studio, we decided to create two separate projects. One for testing ARCore, and one for creating the frame and layout of Arkademi. We decided to later merge this project but we had lots of major problems regarding that. That's why we have 2 applications for you to test.
+  With this application being our very first experience in both Android Studio, we decided to create two separate projects. One for testing ARCore, and one for creating the frame and layout of Arkademi. We decided to later merge this project but we had lots of major problems regarding that. That's why we have 2 applications for you to test.
   
   For Google ARCore to play, you will need an ARCore supported device which we will link below. There are some articles on how to use ARCore apps on a non-supported device but we still haven't tried that so we don't recommend you to try it.
   
@@ -12,7 +12,9 @@ Go Learn with the Real World
   
   ## Interactables
    **Discover Section** - You can tap the images and a ripple effect will show. It won't open any AR lessons because it is in the separate apk file.
+   
    **Browse Section** - This section is hardcoded. You can only view what this section could look like in the final version.
+   
    **Profile Section** - The bottom part is also hardcoded. But in the middle, the toggle switch is interactable. You can also press the learn more button that will take you to another activity.
    
    **AR App** - The layout from the Discover Section is also present here. You can tap the images to load an AR sample. There is no back button so you need to restart the app to try out the other AR samples.
